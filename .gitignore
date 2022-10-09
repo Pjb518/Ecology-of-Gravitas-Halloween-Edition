@@ -1,0 +1,12 @@
+# IDE
+.idea/
+.nova/
+.vs/
+
+# Node Modules
+node_modules/
+
+# OS Specific
+.DS_Store
+
+*.zip
