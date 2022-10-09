@@ -1,0 +1,34 @@
+{
+    "id": "a5e-ecology-of-gravitas-halloween",
+    "title": "Ecology of Gravitas: Halloween Edition",
+    "description": "Provides storytelling and exploration support to give weight to encounters.",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Phillip Best",
+            "url": "https://bio.link/philbest",
+            "email": "me@phillip.best",
+            "discord": "Phil#7071",
+            "ko-fi": "philbest",
+            "twitter": "@PhilBest2202"
+        }
+    ],
+    "system": [
+        "a5e",
+        "dnd5e"
+    ],
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+    },
+    "packs": [
+        {
+            "name": "ecology-of-gravitas",
+            "label": "Ecology of Gravitas: Halloween Edition",
+            "path": "./packs/ecology-of-gravitas.db",
+            "type": "Adventure"
+        }
+    ],
+    "manifest": "https://github.com/Pjb518/Ecology-of-Gravitas-Halloween-Edition/releases/latest/download/module.json",
+    "download": "https://github.com/Pjb518/Ecology-of-Gravitas-Halloween-Edition/releases/download/1.0.0/a5e-ecology-of-gravitas-halloween.json"
+}
