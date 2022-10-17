@@ -16,6 +16,21 @@ This free supplement spotlights the green hag, and how to make running this mons
 
 Happy Halloween!
 
+## [The Khalkos Conspiracy](https://bit.ly/3T5BhJP)
+
+This free supplement spotlights the khalkos, and how to make running this monster precisely as horrific as this creature deserves to be! The tool features the following benefits:
+
+- Hardcore horror content not for the faint of heart!
+- A drag-and-drop module suitable for any campaign (especially sandbox and published adventures)
+- Rules for tracking planetary infestation
+- Encounter tables inspired by the khalkos' ecology and lore 
+- Environmental traits for helping drive home the anxiety of living under interplanar siege by alien forces!
+- Rumor and encounter tables for exploring realms under the shadow of the khalkoi
+- Role-playing advice for the khalkoi
+- Includes seven khalkos variants!
+
+Happy Halloween!
+
 ## Josh's Other Work
 
 Josh is heavily involved in the MoAR series with [Peter Martin](https://www.drivethrurpg.com/browse/pub/19823/Purple-Martin-Games). This series currently has three installments, each containing a wealth of new character options centered around a broad theme. They're fantastic, and you can find links below:
